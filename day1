@@ -11,3 +11,8 @@ public class AsciiValue {
         System.out.println("The ASCII value of " + ch + " is: " + castAscii);
     }
 }
+
+op :
+The ASCII value of a is: 97
+The ASCII value of a is: 97
+
